@@ -10,6 +10,8 @@ Description: This is not just a plugin, it symbolizes the hope and enthusiasm of
 Author: Matt Mullenweg
 Version: 1.7.2
 Author URI: http://ma.tt/
+GitHub Plugin URI: mwb-u/turbo-palm-tree
+Primary Branch: master
 */
 
 function tpt_hello_dolly_get_lyric() {
