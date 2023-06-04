@@ -1,14 +1,14 @@
 <?php
 /**
  * @package Turbo_Palm_Tree
- * @version 1.7.2
+ * @version 1.7.3
  */
 /*
 Plugin Name: Turbo Palm Tree
 Plugin URI: https://github.com/mwb-u/turbo-palm-tree/
 Description: This is not just a plugin, it symbolizes the hope and enthusiasm of an entire generation summed up in two words sung most famously by Louis Armstrong: Hello, Dolly. When activated you will randomly see a lyric from <cite>Hello, Dolly</cite> in the upper right of your admin screen on every page.
 Author: Matt Mullenweg
-Version: 1.7.2
+Version: 1.7.3
 Author URI: http://ma.tt/
 GitHub Plugin URI: mwb-u/turbo-palm-tree
 Primary Branch: master
@@ -43,7 +43,7 @@ Have a little faith in me, fellas
 Dolly, never go away
 Promise, you'll never go away
 Dolly'll never go away again
-Test test test test test 1234 :D";
+Test test test test test 12345 :D";
 
 	// Here we split it into lines.
 	$lyrics = explode( "\n", $lyrics );
